@@ -7,6 +7,17 @@ img {
 }
 
 #thirdDiv {
+    color: aliceblue;
     height: 600px;
     width: 500px;
+    background-color: darkolivegreen;
+    padding: 50px;
+    border: 7px outset rgba(233, 236, 230, 0.719);
+    border-radius: 10px;
 }
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
